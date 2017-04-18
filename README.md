@@ -8,7 +8,7 @@ Adding a Hellow-World plugin
 echo "Downloading KongAPIGatewayPOC repository"
 echo "========================================"
 
-git clone https://github-lvs.corpzone.internalzone.com/mcafee/KongAPIGatewayPOC.git
+git clone https://github.com/KalpanaSastry123/hello-world-kong.git
 
 cd KongAPIGatewayPOC
 
